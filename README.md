@@ -1,3 +1,3 @@
-# terraform-imersao-devops
+# Terraform-Imersão-DevOps
 
-O conteudo para conclusão do desafio de DevOps Elite 2023
+:white_check_mark: O conteudo para conclusão do desafio de DevOps de Elite 2023.
